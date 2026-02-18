@@ -17,7 +17,7 @@ Projeto desenvolvido com foco em estruturação e estilização de páginas web,
 ### 📱 Versão Mobile (Design Responsivo)
 
 <p align="center">
-  <img src="https://prefeia.rio/wp-content/uploads/2021/12/WhatsApp-Image-2021-12-16-at-16.42.03.jpeg" width="300px">
+  <img src="https://github.com/lucasleal-ti/Easy-Shopping-Mobile/blob/main/img/Mobile.png?raw=true" width="150px">
 </p>
 
 ---
