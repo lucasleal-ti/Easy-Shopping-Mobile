@@ -5,6 +5,7 @@ Projeto desenvolvido com foco em estruturação e estilização de páginas web,
 ---
 
 ## 📸 Preview do Projeto
+<a>https://lucasleal-ti.github.io/Easy-Shopping-Mobile/</a>
 
 ### 💻 Versão Desktop
 
